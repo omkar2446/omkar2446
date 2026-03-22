@@ -1,109 +1,124 @@
 <!-- ================= ANIMATED HEADER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Omkar+Tambe;Frontend+Developer+%26+Data+Science+Enthusiast;React+%7C+Python+%7C+AI;Building+Real+World+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Omkar+Tambe;Frontend+Developer+%26+Data+Science+Enthusiast;React+%7C+Python+%7C+AI+Builder;Building+Real+World+Projects+🚀" />
 </p>
 
 ---
 
-## Hey there 👋, I'm Omkar Tambe!
-
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/omkar2446)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](#)
-
----
-
-### Glad to see you here!  
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=omkar2446&label=Profile%20views&color=0e75b6&style=flat" /> 
-</p>
-
-I am a **Frontend Developer & Data Science Enthusiast from India 🇮🇳**, building real-world projects like **LootDukan**, AI Assistants, and automation systems 🚀  
-
----
-
-<img align="right" height="250" width="375" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
-### Talking about Personal Stuff:
-
-- 🛠 I’m currently working with **React, JavaScript, Python**
-- 🚀 Exploring **AI, Data Science, Automation**
-- 💬 Ask me anything, I’m happy to help  
-- 📫 Reach me: **your-email@gmail.com**
-
----
-
-### My Absolute Favorites:
-
-- 💻 Building real-world projects  
-- 🤖 AI & Data-driven apps  
-- 🚀 Startups & product building  
-
----
-
-### Languages and Tools:
-
-<p>
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
-</p>
-
----
-
-### 📊 GitHub Stats:
-
-<details>
-  <summary><b>⚡ GitHub Stats</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omkar2446&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar2446&layout=compact&hide_border=true"/>
-</details>
-
----
-
-### 🔥 GitHub Streak:
-
-<details>
-  <summary><b>🔥 Streak Stats</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar2446&hide_border=true" />
-</details>
-
----
-
-### 🐍 Contribution Snake:
+<h1 align="center">⚡ Omkar Tambe ⚡</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omkar2446/omkar2446/output/github-contribution-grid-snake.svg" />
+  <b>Frontend Developer | Data Science Enthusiast | AI Builder</b>
 </p>
-
----
-
-### ⚡ Random Dev Quote:
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <a href="https://github.com/omkar2446">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="Linkedin.com/in/omkar-tambe-311a72350/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+ 
 </p>
 
 ---
 
-### 🔥 My Projects:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omkar2446&style=for-the-badge&color=blue" />
+</p>
 
-- 🛒 LootDukan – Affiliate product platform  
-- 🤖 AI Assistant – Desktop automation  
-- 🌱 FarmTech – Smart farming  
+---
+
+<!-- ================= IRON MAN GIF ================= -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyM3Voamw3Nnk4eTVja2g1Zmo3dWl4Nmtybjh4a29lN20xZG1zdnhoaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/111ebonMs90YLu/200w.gif" width="400"/>
+</p>
+
+---
+
+<img align="right" height="250" width="350" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+## 👨‍💻 About Me
+
+- 🤖 Working on **AI Assistant & Automation**
+- 📊 Exploring **Data Science & AI**
+- 📈 Learning **Data Analysis, Visualization & Machine Learning**
+- 🚀 Passionate about startups & earning through tech
+- 🎯 Goal: Build scalable and impactful products  
+
+---
+
+## 📊 Data Science Focus
+
+- 🧠 Machine Learning basics (models, training, prediction)
+- 📈 Data Analysis using **Python (NumPy, Pandas)**
+- 📊 Data Visualization using **Matplotlib / Seaborn**
+- 🤖 Interested in **AI, ML, and real-world data projects**
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,python,fastapi,supabase,mysql,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omkar2446&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar2446&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar2446&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar2446&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🔥 Projects
+
+- 🤖 **AI Assistant** – Desktop automation system  
+- 🌱 **FarmTech** – Smart farming platform  
+- 📊 **Data Analysis Projects** – Insights & visualization using Python  
+
+---
+
+## ⚡ Fun Fact
+
+💡 I love building projects that generate income 💰  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/omkar2446">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="Linkedin.com/in/omkar-tambe-311a72350/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-### Show some ❤️ by starring my repositories!
+⭐ Star my repositories if you like my work!
 
 </div>
