@@ -8,7 +8,7 @@
 <h1 align="center">⚡ Omkar Tambe ⚡</h1>
 
 <p align="center">
-  <b>Frontend Developer | Data Science Enthusiast | AI Builder</b>
+  <b>Frontend Developer | Data Science| AI Builder</b>
 </p>
 
 <p align="center">
