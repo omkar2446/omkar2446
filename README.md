@@ -15,7 +15,7 @@
   <a href="https://github.com/omkar2446">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="Linkedin.com/in/omkar-tambe-311a72350/">
+  <a href="[Linkedin.com/in/omkar-tambe-311a72350/](https://www.linkedin.com/in/omkar2446/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
  
